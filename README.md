@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Alonzo</h1>
+<h1 align="center">Alonzo Tomohiko Anderson</h1>
 <h3 align="center">Front-End Developer From the USA living in Tokyo, Japan</h3>
 
 - 🔭 I’m currently working on **An Application that can identify Vegan Products**
