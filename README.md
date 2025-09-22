@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **An Application that can identify Vegan Products**
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, and Ruby on Rails**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, React.js, and TypeScript**
 
 - 💬 Ask me about **JavaScript**
 
