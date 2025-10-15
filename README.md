@@ -3,8 +3,7 @@
 </h3>
 <h3 align="center">📍 Tokyo, Japan 🗾 </h3>
 
-<p align="center"> 🌱 I’m currently working on <strong>An Application that can identify Vegan Products in Japan</strong></p>
-<p align="center"> 💻 As of now, I'm learning more about <strong>JavaScript, React.js, and TypeScript</strong></p>
+<p align="center"><strong>I’m currently working on an application that can identify Vegan Food Products in Japan 🌱</strong></p>
 
 
 <h3 align="center">Social Media Links</h3>
