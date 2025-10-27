@@ -1,4 +1,4 @@
-<h1 align="center">Alonzo Tomohiko Anderson <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/b04f7fbf-5c87-457b-abed-5041ddab933b" /> </h1>
+<h1 align="center">Alonzo Tomohiko Anderson</h1>
 <h3 align="center">Front-End Developer From San Francisco, California 
 </h3>
 <h3 align="center">📍 Tokyo, Japan 🗾 </h3>
@@ -7,6 +7,7 @@
 
 
 <h3 align="center">| Social Media Links |</h3>
+
 <p align="center">
 <a href="https://linkedin.com/in/alonzomori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alonzomori" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@AlonzoMori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alonzo mori" height="30" width="40" /></a>
