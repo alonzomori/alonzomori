@@ -5,7 +5,7 @@
 
 <p align="center"><strong>I’m currently working on an application that can identify Vegan Food Products in Japan 🌱</strong></p>
 
-<h3 align="center"> | Let's Connect | </h3>
+<h3 align="center"> | Social Media Links | </h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/alonzomori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alonzomori" height="30" width="40" /></a>
